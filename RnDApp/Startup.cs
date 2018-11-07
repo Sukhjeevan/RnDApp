@@ -10,6 +10,7 @@ namespace RnDApp
         {
             ConfigureAuth(app);
             //Test update
+            //Test update 1
         }
     }
 }
