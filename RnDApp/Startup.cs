@@ -9,8 +9,7 @@ namespace RnDApp
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
-            //Test update
-            //Test update local
+            //Test update remote
         }
     }
 }
