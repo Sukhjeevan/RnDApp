@@ -10,7 +10,7 @@ namespace RnDApp
         {
             ConfigureAuth(app);
             //Test update remote
-            //Code was added in github
+            //Code was edited in github
         }
     }
 }
