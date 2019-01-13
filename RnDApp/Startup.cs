@@ -12,7 +12,6 @@ namespace RnDApp
             ConfigureAuth(app);
             //Test update remote
             //Branch
-            //Change 1
         }
     }
 }
