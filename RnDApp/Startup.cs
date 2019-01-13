@@ -8,6 +8,7 @@ namespace RnDApp
     {
         public void Configuration(IAppBuilder app)
         {
+            //This is Branch1 branch
             ConfigureAuth(app);
             //Test update remote
             //Branch
