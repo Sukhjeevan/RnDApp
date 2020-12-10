@@ -11,8 +11,17 @@ namespace RnDApp
             //This is Branch1 branch
             ConfigureAuth(app);
             //Test update remote
-            //Branch
-            //Adding comments only
+            //Code was edited in VS
+
+            //Code to call Feature 1
+
+            //Code to call Feature 2
+            
+            //Code to call Feature 3
+
+            //Code to call Feature 4
+            
+            //Code to call Feature 5
         }
     }
 }
